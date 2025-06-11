@@ -2,7 +2,7 @@
 
 A simple Flask API for booking fitness classes (Yoga, Zumba, HIIT).
 
-## 🚀 Setup
+## Setup
 
 ```bash
 git clone https://github.com/Tejasag15/Omnify-task.git
